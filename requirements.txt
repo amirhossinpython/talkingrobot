@@ -1,0 +1,6 @@
+speech_recognition
+ gtts
+pygame
+requests
+webbrowser
+googletrans 
